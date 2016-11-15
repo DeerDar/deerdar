@@ -8,9 +8,9 @@ published: true
 ---
 <table>
   <tr>
-    <td>Title</td>
+    <th>Title</th>
     <td>Lesson blog1 </td>
-    <td>Date</td>
+    <th>Date</th>
     <td>11/10/16</td>
   </tr>
 </table>
@@ -26,8 +26,8 @@ published: true
     <td>To have a Github Pages Static Website</td>
   </tr>
   <tr>
-    <td>Did I reach my target? 
-(add details to "Lesson Review")</td>
+    <th>Did I reach my target? 
+(add details to "Lesson Review")</th>
     <td>Yes I did reach my target today.</td>
   </tr>
 </table>
@@ -35,22 +35,22 @@ published: true
 
 <table>
   <tr>
-    <td>Lesson Review</td>
+    <th>Lesson Review</th>
   </tr>
   <tr>
-    <td>How did I learn? What strategies were effective? </td>
-  </tr>
-  <tr>
-    <td>Holding text</td>
-  </tr>
-  <tr>
-    <td>What limited my learning? Which habits do I need to work on? </td>
+    <th>How did I learn? What strategies were effective? </th>
   </tr>
   <tr>
     <td>Holding text</td>
   </tr>
   <tr>
-    <td>What will I change for next time? How will I improve my learning?</td>
+    <th>What limited my learning? Which habits do I need to work on? </th>
+  </tr>
+  <tr>
+    <td>Holding text</td>
+  </tr>
+  <tr>
+    <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
     <td>Holding text</td>
