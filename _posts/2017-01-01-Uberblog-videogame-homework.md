@@ -8,11 +8,11 @@ published: true
 ---
 <table>
   <tr>
-    <td>Name </td>
-    <td>Identified Variables </td>
-    <td>Identified Sprites</td>
-    <td>Good thoughts</td>
-    <td>Bad thoughts</td>
+    <th>Name </th>
+    <th>Identified Variables </th>
+    <th>Identified Sprites</th>
+    <th>Good thoughts</th>
+    <th>Bad thoughts</th>
   </tr>
   <tr>
     <td>Asteroides</td>
