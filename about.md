@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My Lesson reviews for each IT/Computing lesson.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Sometimes includes blog homework.
 
 ### Contact me
 
