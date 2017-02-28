@@ -10,7 +10,7 @@ Week 5: Improving your game
 
 <table>
   <tr>
-    <td>What are you going to work on today?</td>
+    <th>What are you going to work on today?</th>
   </tr>
   <tr>
     <td>Changing the scrolling background and fix the scrollx code.</td>
@@ -22,16 +22,16 @@ Week 5: Improving your game
 
 <table>
   <tr>
-    <td>Teacher's?</td>
+    <th>Teacher's?</th>
     <td>Mine?</td>
   </tr>
   <tr>
     <td>Enter the given criteria
 Have a working game by the end of this week’s homework
 </td>
-    <td>
+    <th>
 Make the scrolling backgrounds look like the characters style.
-Fix the scrollx code.</td>
+Fix the scrollx code.</th>
   </tr>
 </table>
 
@@ -40,19 +40,19 @@ Fix the scrollx code.</td>
 
 <table>
   <tr>
-    <td>Beginning of Lesson: What have you done so far? What point of the work are you at?</td>
+    <th>Beginning of Lesson: What have you done so far? What point of the work are you at?</th>
   </tr>
   <tr>
     <td>Start on one of the scrolling backgrounds to see what I want them to look like.</td>
   </tr>
   <tr>
-    <td>Activity:  What are you going to be doing this lesson? </td>
+    <th>Activity:  What are you going to be doing this lesson? </th>
   </tr>
   <tr>
     <td>Changing some more of the backgrounds. Changing the background to match.</td>
   </tr>
   <tr>
-    <td>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </td>
+    <th>End of Lesson: What point have you reached at the end of the lesson? Did you meet your goal? </th>
   </tr>
   <tr>
     <td>Creating a last five second timer.</td>
@@ -64,13 +64,13 @@ Fix the scrollx code.</td>
 
 <table>
   <tr>
-    <td>What went well: How did I learn? What helped me learn today? </td>
+    <th>What went well: How did I learn? What helped me learn today? </th>
   </tr>
   <tr>
     <td>I think that the platform moving looks more realistic.</td>
   </tr>
   <tr>
-    <td>Even better if…: What could I do that would be even better? Improvements? </td>
+    <th>Even better if…: What could I do that would be even better? Improvements? </th>
   </tr>
   <tr>
     <td>I found creating the crystals the same size a very hard challenge.</td>
