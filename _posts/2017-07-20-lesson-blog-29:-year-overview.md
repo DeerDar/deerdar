@@ -11,7 +11,7 @@ published: true
     <th>Title</th>
     <td>Lesson blog 29: A summary of year 7 in computing</td>
     <th>Date</th>
-    <td>19/7/17</td>
+    <td>20/7/17</td>
   </tr>
 </table>
 
