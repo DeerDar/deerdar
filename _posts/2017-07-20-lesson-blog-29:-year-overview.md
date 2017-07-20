@@ -1,5 +1,5 @@
 ---
-title: lesson blog 29: year overview
+title: lesson blog 29 year overview
 layout: post
 author: oscar.ryley
 permalink: /lesson-blog-29:-year-overview/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <th>Title</th>
-    <td>Lesson blog 29: A summary of year 7 in computing</td>
+    <td>Lesson blog 29 A summary of year 7 in computing</td>
     <th>Date</th>
     <td>20/7/17</td>
   </tr>
