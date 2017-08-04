@@ -1,8 +1,8 @@
 ---
-title: lesson blog 29: year overview
+title: lesson blog 29 year overview
 layout: post
 author: oscar.ryley
-permalink: /lesson-blog-29:-year-overview/
+permalink: /lesson-blog-29-year-overview/
 source-id: 15C-2IYMKP-YzaOSwKdP8lLNHPSvmQNBQM4HP0_ssKGc
 published: true
 ---
