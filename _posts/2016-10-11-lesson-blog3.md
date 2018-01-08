@@ -1,5 +1,5 @@
 ---
-title: lesson blog3
+title: Just so i can keep the posts folder
 layout: post
 author: oscar.ryley
 permalink: /lesson-blog1/
