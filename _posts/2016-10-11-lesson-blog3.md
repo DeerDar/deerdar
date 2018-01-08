@@ -10,4 +10,4 @@ published: true
   <tr>
     <th>Hello World</th>
     
-  <td>testing, this whole post will be deleted once i have written my first blog (lesson blog 1). Also the posts folder needs to have atleast one post in it or it dissapears and your unable to post anymore, so that's another reason why this Hello World post is here.</td>
+  <td>This whole post will be deleted once i have written my first blog (lesson blog 1). Also the posts folder needs to have atleast one post in it or it dissapears and your unable to post anymore, so that's another reason why this Hello World post is here.</td>
