@@ -215,7 +215,7 @@ vertical-align: middle;
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: 47973F;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,7 +225,7 @@ vertical-align: middle;
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: 47973F;
   font-size: 16px;
 
   @include mobile {
@@ -248,7 +248,7 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: 47973F;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
