@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $lightGray;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $lightGraye;
   }
 }
 
@@ -116,7 +116,7 @@ width: 100%;
 }
 
 table, th, td {
-border: 1px solid #000000;
+border: 1px solid $black;
 background-color:#984b43;
 
 }
@@ -145,7 +145,7 @@ vertical-align: middle;
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $blue;
+  color: $lightGray;
   background: $lightGray;
 }
 ::selection {
