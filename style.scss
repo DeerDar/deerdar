@@ -140,12 +140,12 @@ vertical-align: middle;
 
 .date {
   font-style: italic;
-  color: 47973F;
+  color: #47973F;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #47973F;
   background: $lightGray;
 }
 ::selection {
@@ -215,7 +215,7 @@ vertical-align: middle;
 
 .site-name {
   margin: 0;
-  color: 47973F;
+  color: #47973F;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -225,7 +225,7 @@ vertical-align: middle;
 
 .site-description {
   margin: -5px 0 0 0;
-  color: 47973F;
+  color: #47973F;
   font-size: 16px;
 
   @include mobile {
@@ -266,7 +266,7 @@ nav {
 
 .posts > .post {
   padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid #47973F;
 }
 
 .posts > .post:last-child {
@@ -277,9 +277,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid #47973F;
     padding: 0.1em 1em;
-    color: $gray;
+    color: #47973F;
     font-size: 22px;
     font-style: italic;
   }
@@ -298,7 +298,7 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  background-color: #47973F;
 }
 
 footer {
