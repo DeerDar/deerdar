@@ -12,4 +12,4 @@ Same template (table used) for each blog post. I will be using a FUSE BOX and co
 
 ### Contact me
 
-My School email(mailto:oscar.ryley@challoners.org)
+My School email (mailto:oscar.ryley@challoners.org)
