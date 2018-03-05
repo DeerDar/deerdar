@@ -57,4 +57,4 @@ published: true
   </tr>
 </table>
 
-<video src="https://drive.google.com/file/d/1ZDdJrybiXiGND8HWet-IE87o9_lfLYih/view" width="320" height="200" controls preload></video>
+<iframe src="https://drive.google.com/file/d/1ZDdJrybiXiGND8HWet-IE87o9_lfLYih/preview" width="640" height="480"></iframe>
