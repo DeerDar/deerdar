@@ -57,4 +57,4 @@ published: true
   </tr>
 </table>
 
-<video src="https://drive.google.com/open?id=1ZDdJrybiXiGND8HWet-IE87o9_lfLYih" width="320" height="200" controls preload></video>
+<video src="https://drive.google.com/file/d/1ZDdJrybiXiGND8HWet-IE87o9_lfLYih/view" width="320" height="200" controls preload></video>
