@@ -27,8 +27,8 @@ published: true
   </tr>
   <tr>
     <th>Did I reach my target? 
-(add details to "Lesson Review")</td>
-    <td> Yes, I did.</th>
+(add details to "Lesson Review")</th>
+    <td> Yes, I did.</td>
   </tr>
 </table>
 
