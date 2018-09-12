@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Oscar J R
+name: Rowan C
 
 # Short bio or description (displayed in the header)
-description: Computing Blog
+description: Year 9 Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s-media-cache-ak0.pinimg.com/originals/c2/5f/cc/c25fccddaa04bfccd7a40137ec4653d6.jpg
@@ -18,10 +18,10 @@ avatar: https://s-media-cache-ak0.pinimg.com/originals/c2/5f/cc/c25fccddaa04bfcc
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: oscar.ryley@challoners.org
+  email:
   facebook:
   flickr:
-  github: OJR-f-DCGS
+  github:
   instagram:
   linkedin:
   pinterest:
